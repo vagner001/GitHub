@@ -16,7 +16,7 @@ permite neste momento verificar se o arquivo desejado no qual estamos programand
 OBS.: ele deverá estar na cor verde
 
 SUPER OBS
-========================================================================================================
+=======================================================================================================
 
 Caso seja a sua primeira vez que utilizou o seu github
 você deverá configurar duas linhas de comando
