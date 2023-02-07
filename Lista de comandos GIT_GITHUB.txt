@@ -1,0 +1,41 @@
+git --version
+permite ver a versão que foi instalada na sua máquina do seu git
+
+git init
+permite inicializar o serviço de monitoramento da nossa pasta
+
+git status
+permite fazer com que o seu git identifique um novo arquivo criado dentro da sua pasta
+OBS.: o arquivo deverá estar na cor vermelho
+
+git add "nomes.txt"
+permite fazer com que o arquivo que está sendo desenvolvido seja marcado para subir ele no github
+
+git status
+permite neste momento verificar se o arquivo desejado no qual estamos programando está pronto para subir 
+OBS.: ele deverá estar na cor verde
+
+SUPER OBS
+========================================================================================================
+
+Caso seja a sua primeira vez que utilizou o seu github
+você deverá configurar duas linhas de comando
+
+git config --global user.email"digita o seu email da conta github"
+git config --global user.name"digita o nome que criou na conta github"
+
+
+git commit -m "aqui você irá digitar a versão do seu programa"
+permite criar uma sessão que será apresentada a versão dentro do github
+
+git push 
+Como enviar alterações usando git push
+
+git branch -M main
+o branch permite copiar todo o conteúdo selecionado para dentro da nossa pasta no github
+
+git remote add origin endereço que devemos copiar do github
+Esta linha vai copiar todo o conteúdo para dentro da nossa página no github
+
+git push -u origin main
+aqui finalizamos a subida dos arquivo no processo de versionamento

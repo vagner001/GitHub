@@ -1,0 +1,21 @@
+Comandos Git
+Aprenda Git do básico ao avançado
+
+https://comandosgit.github.io/
+
+======================================================================
+
+Lista de comandos úteis do GIT 
+
+https://gist.github.com/leocomelli/2545add34e4fec21ec16
+
+======================================================================
+
+
+Curso de Git e Github COMPLETO 2021 [Iniciantes] + Desafios + Muita Prática
+
+https://youtu.be/kB5e-gTAl_s
+
+======================================================================
+
+
